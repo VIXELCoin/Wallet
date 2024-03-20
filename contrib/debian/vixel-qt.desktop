@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Vixel Core
+Comment=Vixel P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Vixel peer-to-peer Netzwerk
+Comment[fr]=Vixel, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Vixel, eşten eşe kriptografik sanal para birimi
+Exec=vixel-qt %u
+Terminal=false
+Type=Application
+Icon=vixel128
+MimeType=x-scheme-handler/vixel;
+Categories=Office;Finance;P2P;Network;Qt;
+StartupWMClass=Vixel-qt

@@ -1,0 +1,6 @@
+usr/local/bin/vixel-qt usr/bin
+share/pixmaps/vixel32.xpm usr/share/pixmaps
+share/pixmaps/vixel16.xpm usr/share/pixmaps
+share/pixmaps/vixel128.png usr/share/pixmaps
+debian/vixel-qt.desktop usr/share/applications
+debian/vixel-qt.protocol usr/share/kde4/services/

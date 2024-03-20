@@ -1,0 +1,22 @@
+QT_TS = \
+  qt/locale/vixel_ar.ts \
+  qt/locale/vixel_bg.ts \
+  qt/locale/vixel_de.ts \
+  qt/locale/vixel_en.ts \
+  qt/locale/vixel_es.ts \
+  qt/locale/vixel_fi.ts \
+  qt/locale/vixel_fr.ts \
+  qt/locale/vixel_it.ts \
+  qt/locale/vixel_ja.ts \
+  qt/locale/vixel_ko.ts \
+  qt/locale/vixel_nl.ts \
+  qt/locale/vixel_pl.ts \
+  qt/locale/vixel_pt.ts \
+  qt/locale/vixel_ro.ts \
+  qt/locale/vixel_ru.ts \
+  qt/locale/vixel_sk.ts \
+  qt/locale/vixel_th.ts \
+  qt/locale/vixel_tr.ts \
+  qt/locale/vixel_vi.ts \
+  qt/locale/vixel_zh_CN.ts \
+  qt/locale/vixel_zh_TW.ts

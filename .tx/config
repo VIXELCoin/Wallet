@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[vixel.vixel_ents]
+file_filter = src/qt/locale/vixel_<lang>.ts
+source_file = src/qt/locale/vixel_en.xlf
+source_lang = en
